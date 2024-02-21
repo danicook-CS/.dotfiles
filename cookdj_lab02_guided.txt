@@ -1,0 +1,10 @@
+Danielle Cook
+To begin the lab you had to open the terminal located in your home directory then we created a VIM configuration file, then inside of this file we added the following configurations that are stated below. After we added the configuration we had to save and exit the file. The you could see the changes after reopening the file. The problem i then came across was realizing how to change the name and copy the file to my desktop directory. However I was shown the changes that I needed to make for example copying the path to Desktop and changing the name there. Finally I reopened the file and added this!
+syntax on
+set ruler
+set number
+set autoindent
+set number
+set ignorecase
+color elflord
+
